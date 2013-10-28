@@ -3,7 +3,7 @@
 # Slackware build script for Ice
 
 # Written by Aleksandar Samardzic <asamardzic@gmail.com>
-# Updated by Youjie Zhou <youjie.zhou@gmail.com>
+# Updated by Youjie Zhou <jmpopush@gmail.com>
 
 PRGNAM=Ice
 VERSION=${VERSION:-3.5.1}
