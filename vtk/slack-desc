@@ -6,14 +6,14 @@
 # customary to leave one space after the ':' except on otherwise blank lines.
 
    |-----handy-ruler------------------------------------------------------|
-vtk: vtk (The Visualization Toolkit)
-vtk:
-vtk: The Visualization Toolkit (VTK) is an open source, freely available
-vtk: software system for 3D computer graphics, modeling, image processing,
-vtk: volume rendering, scientific visualization and information
-vtk: visualization. VTK also includes ancillary support for 3D interaction
-vtk: widgets, two and three-dimensional annotation, and parallel
-vtk: computing.
-vtk:
-vtk: Homepage: http://www.vtk.org/VTK/project/about.html
-vtk:
+VTK: VTK (The Visualization Toolkit)
+VTK:
+VTK: The Visualization Toolkit (VTK) is an open source, freely available
+VTK: software system for 3D computer graphics, modeling, image processing,
+VTK: volume rendering, scientific visualization and information
+VTK: visualization. VTK also includes ancillary support for 3D interaction
+VTK: widgets, two and three-dimensional annotation, and parallel
+VTK: computing.
+VTK:
+VTK: Homepage: http://www.vtk.org/VTK/project/about.html
+VTK:
